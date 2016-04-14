@@ -2,7 +2,7 @@ Idea #1
 Determining the likelyhood of a traffic accident on a freeway (specifically 580 going into San Francisco)
 There are several data sets available, but finding the right source (i.e. timeframe, location, and details) may be the challenge.
 Examples of a dataset below:
-https://wiki.csc.calpoly.edu/datasets/wiki/HighwayAccidents
+https://wiki.csc.calpoly.edu/datasets/wiki/HighwayAccidents http://opendata.stackexchange.com/questions/1755/automobile-accident-data-in-the-us
 Thought of this idea on a commute traveling into SF for work and how certain dates are just regular delays, and some are longer due to accidents.
 It would be interesting to see likelyhood of a accident in time of day with various metrics to help with understanding when to leave for work.
 
